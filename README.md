@@ -2,6 +2,8 @@
 
 在一個視窗裡同時執行、監看多個 Claude Code session 的桌面應用程式（Windows）。
 
+![Skein Lite：在清單上切換 session、直接允許權限、審查變更](media/skein-lite.gif)
+
 這個 repository 只放安裝檔，不含原始碼。
 
 ## 下載
