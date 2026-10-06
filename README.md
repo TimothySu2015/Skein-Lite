@@ -14,12 +14,16 @@
 - 安裝檔沒有程式碼簽章，Windows 第一次執行會顯示 SmartScreen 警告。
 - 安裝後會自動檢查並下載新版本，重新啟動時套用。可以在「設定」裡關閉。
 
+## 操作手冊
+
+[Skein Lite 操作手冊（PDF，繁體中文）](docs/Skein-Lite-Manual.pdf)：安裝、日常操作、搭配 Git 和 pull request、設定、Codex 擴充。適用 0.12.4。
+
 ## Skein Lite 有什麼
 
 多開 session、狀態和提醒、在 session 之間傳訊、用量、Git 整合和 pull request、變更審查。可以選用 Codex 擴充。
 
 ---
 
-Skein Lite runs and watches many Claude Code sessions in one window (Windows). This repository holds its installers only, not its source. Get the latest from [Releases](https://github.com/TimothySu2015/Skein-Lite/releases/latest); once installed it keeps itself up to date.
+Skein Lite runs and watches many Claude Code sessions in one window (Windows). This repository holds its installers only, not its source. Get the latest from [Releases](https://github.com/TimothySu2015/Skein-Lite/releases/latest); once installed it keeps itself up to date. The [manual](docs/Skein-Lite-Manual.pdf) is in Traditional Chinese.
 
 Copyright © 2026 Timothy Su. All rights reserved.
