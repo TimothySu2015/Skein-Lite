@@ -16,11 +16,11 @@
 
 ## 操作手冊
 
-[Skein Lite 操作手冊（PDF，繁體中文）](docs/Skein-Lite-Manual.pdf)：安裝、日常操作、搭配 Git 和 pull request、多帳號、自訂模型端點、設定、Codex 擴充。適用 0.14.3。
+[Skein Lite 操作手冊（PDF，繁體中文）](docs/Skein-Lite-Manual.pdf)：安裝、日常操作、搭配 Git 和 pull request、多帳號、自訂模型端點、設定、Codex 擴充、在 WSL 裡開 session。適用 0.15.0。
 
 ## Skein Lite 有什麼
 
-多開 session、狀態和提醒、在 session 之間傳訊、用量、Git 整合和 pull request、變更審查。可以選用的擴充：多帳號、自訂模型端點（接地端或公司內部的模型）、Codex。
+多開 session、狀態和提醒、在 session 之間傳訊、用量、Git 整合和 pull request、變更審查。可以選用的擴充：多帳號、自訂模型端點（接地端或公司內部的模型）、Codex、在 WSL 裡的 session（Windows：用裝在 WSL 發行版裡的 Claude Code）。
 
 ---
 
