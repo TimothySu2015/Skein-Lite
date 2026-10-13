@@ -2,7 +2,7 @@
 
 在一個視窗裡同時執行、監看多個 Claude Code session 的桌面應用程式（Windows）。
 
-![Skein Lite：在清單上切換 session；打開織女，一頁看完所有 session，在聊天室問她，或用 @ 直接對一個 session 說話](media/skein-lite.gif)
+![Skein Lite：在清單上切換 session；打開織女，一頁看完所有 session，在聊天室問她，或用 @ 直接對一個 session 說話；session 之間自己傳話，聊天室列出問題和回答；把幾個 session 編成一個主和幾個下屬，在階層圖上看誰做完了、誰在等你](media/skein-lite.gif)
 
 這個 repository 只放安裝檔，不含原始碼。
 
